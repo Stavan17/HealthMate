@@ -12,9 +12,9 @@
   @apply block
 }
 
-::-webkit-scrollbar{
+/* ::-webkit-scrollbar{
   @apply hidden
-}
+} */
 
 @media(max-width:740px){
   .active p{
