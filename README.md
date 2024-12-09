@@ -22,6 +22,20 @@ figma file :https://www.figma.com/design/ZLkjwG5ehxNRrC4SUA2WG7/Prescripto---UI-
 ![13](https://github.com/user-attachments/assets/03e4976f-c62b-4877-a36a-9c1bd832ba42)
 ![14](https://github.com/user-attachments/assets/f25d76fe-2f19-483d-9c26-3efa208ecd7a)
 ![15](https://github.com/user-attachments/assets/35bd654e-4eb2-40f3-9e6b-078c61f52ab8)
+![16](https://github.com/user-attachments/assets/d81fbd7e-9727-4511-8c62-dac24d05d5c5)
+![17](https://github.com/user-attachments/assets/ff909be7-91ca-4a2e-98ab-096c0f590e95)
+![18](https://github.com/user-attachments/assets/d30aecfd-858e-46e0-9081-54e767cdb7f2)
+![19](https://github.com/user-attachments/assets/d407b26e-17c1-4b9c-be70-038a87764788)
+![20](https://github.com/user-attachments/assets/5ce0d230-dd59-492f-9bb5-78ee5a56d1b6)
+![21](https://github.com/user-attachments/assets/66fedcc9-be08-4e37-859b-4068062b81bb)
+![22](https://github.com/user-attachments/assets/b300ff93-273a-4b7e-9ed0-a2f6f56284ec)
+![23](https://github.com/user-attachments/assets/5674ce03-e571-4f4e-84dd-df9325b92dbf)
+![24](https://github.com/user-attachments/assets/adbbbc5e-a41d-4659-9d9f-113e7d252326)
+![25](https://github.com/user-attachments/assets/a6137818-ac53-4b58-9110-f38b9aa0351f)
+![26](https://github.com/user-attachments/assets/1c0613e3-dacb-4d58-9472-bcd3cba9f2cd)
+![27](https://github.com/user-attachments/assets/35001ed7-5c1f-4076-ac59-7dac6c921fa8)
+![28](https://github.com/user-attachments/assets/350180c2-4286-4c4f-a40d-31bdd0c57bb8)
+
 
 
 
