@@ -7,3 +7,5 @@ Admin Panel: Admin can manage website with the help of admin panel we can add th
 Prescripto live demo here:https://prescripto-bsjg.onrender.com 
 Prescripto Admin & doctor's demo here :https://prescripto-admin-klq6.onrender.com
 figma file :https://www.figma.com/design/ZLkjwG5ehxNRrC4SUA2WG7/Prescripto---UI-Design?node-id=0-1&t=H9oH3IVxYXBo4r1W-1
+![1](https://github.com/user-attachments/assets/9825b73a-a8cd-4da3-a3a0-98633f75b628)
+![2](https://github.com/user-attachments/assets/392b68c7-8ec0-4956-bb7f-68e87fddaa92)
