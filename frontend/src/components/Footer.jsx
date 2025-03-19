@@ -8,7 +8,7 @@ const Footer = () => {
                 {/* left section */}
                 <div>
                     <img className='mb-5 w-40 ' src={assets.logo} alt="" />
-                    <p className='w-full md:w:2/3 text-gray-600 leading-6'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                    <p className='w-full md:w:2/3 text-gray-600 leading-6'>HealthMate is on a mission to revolutionize healthcare through technology. With innovation at our core, we strive to build smart, accessible, and impactful solutions for a healthier future. Join us on our journey to transform lives, one innovation at a time.</p>
                 </div>
                 {/* Center section  */}
                 <div>
@@ -24,15 +24,15 @@ const Footer = () => {
                 <div>
                     <p className='textxl font-medium  mb-5'>GET IN TOUCH</p>
                     <ul className='flex flex-col gap-2 text-gray-600'>
-                        <li>+91 8850556539</li>
-                        <li>satishguptagps@gmail.com</li>
+                        <li>+91 93273 52258, +91 82006 37718</li>
+                        <li>20220702028@karnavatiuniversity.edu.in, 20220702029@karnavatiuniversity.edu.in</li>
                     </ul>
                 </div>
             </div>
             {/* copy right text */}
             <div>
                 <hr />
-            <p className='py-5 text-sm text-center'>Copyright © 2024 Codewithsg - All Right Reserved.</p>
+            <p className='py-5 text-sm text-center'>Copyright © 2025 HealthMate - All Right Reserved.</p>
             </div>
         </div>
     )

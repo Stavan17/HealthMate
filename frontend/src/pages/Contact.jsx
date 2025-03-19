@@ -10,11 +10,11 @@ const Contact = () => {
           <img className='w-full md:max-w-[360px]' src={assets.contact_image} alt="" />
           <div className='flex flex-col justify-center items-start gap-6'>
             <p className='font-semibold text-lg text-gray-600 '>Our OFFICE</p>
-            <p className='text-gray-500'>Behind Sakinaka Metro Station <br />
-              Andheri(West) ,Mumbai, Maharashtra, Ind</p>
-            <p className='text-gray-500'>Tel: (022) 555‑0132 <br />Email: satishguptagps@gmail.com
+            <p className='text-gray-500'>Karnavati University <br />
+              Uvarsad ,Gandhinagar, Gujarat, Ind</p>
+            <p className='text-gray-500'>Phone: +91 93273 52258, +91 82006 37718 <br />Email: 20220702028@karnavatiuniversity.edu.in, 20220702029@karnavatiuniversity.edu.in  
             </p>
-            <p className='font-semibold text-lg text-gray-600 '>Careers at PRESCRIPTO</p>
+            <p className='font-semibold text-lg text-gray-600 '>Careers at HEALTHMATE</p>
             <p className='text-gray-500'>Learn more about our teams and job openings.</p>
             <button className='py-5 px-8 border border-black text-sm hover:bg-black hover:text-white transition-all duration-500 '>Explore Jobs</button>
           </div>
