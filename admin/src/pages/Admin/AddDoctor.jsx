@@ -72,12 +72,12 @@ const {aToken,backendUrl}=useContext(AdminContext)
                         <img className='w-16 bg-gray-100 rounded-full cursor-pointer' src={docImg ? URL.createObjectURL(docImg) : assets.upload_area} alt="" />
                     </label>
                     <input onChange={(e)=>setdocImg(e.target.files[0])}  type="file" id="doc-img" hidden />
-                    <p>Upload doctor <br /> picture</p>
+                    <p>Upload Doctor <br /> Picture</p>
                 </div>
                 <div className='flex flex-col lg:flex-row items-start gap-10 text-gray-600'>
                     <div className='w-full lg:flex-1 flex flex-col gap-4'>
                         <div className='flex-1 flex flex-col gap-1'>
-                            <p>Doctor name</p>
+                            <p>Doctor Name</p>
                             <input onChange={(e)=>setName(e.target.value)} value={name} className='border rounded px-3 py-2' type="text" placeholder='Name' required />
                         </div>
                         <div className='flex-1 flex flex-col gap-1'>
