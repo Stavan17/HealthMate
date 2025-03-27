@@ -19,7 +19,7 @@ useEffect(() => {
         {
           doctors.map((item,index)=>(
             <div className='border border-indigo-200 rounded-xl max-w-56 overflow-hidden cursor-pointer' key={index}>
-              <img className='bg-indigo-50 hover:bg-primary transition-all duration-500' src={item.image} alt="" />
+              <img className='h-[60%] object-cover object-center w-full' src={item.image} alt="" />
               <div className='p-4'>
                 <p className='text-stone-800 text-lg font-medium'>{item.name}</p>
                 <p className='text-zinc-600 text-sm'>{item.speciality}</p>
