@@ -33,6 +33,10 @@ const Navbar = () => {
                     <li className='py-1'>CONTACT</li>
                     <hr className='border-none outline-none h-0.5 bg-primary w-3/5 m-auto hidden ' />
                 </NavLink>
+                <NavLink to="/health-insights">
+                    <li className='py-1'>HEALTH INSIGHTS</li>
+                    <hr className='border-none outline-none h-0.5 bg-primary w-3/5 m-auto hidden' />
+                </NavLink>
             </ul>
             <div className='flex items-center gap-4'>
                 {
@@ -43,6 +47,7 @@ const Navbar = () => {
                             <div className='min-w-48 bg-stone-100 rounded flex flex-col gap-4 p-4'>
                                 <p onClick={() => navigate('my-profile')} className='hover:text-black cursor-pointer'>My Profile</p>
                                 <p onClick={() => navigate('my-appointments')} className='hover:text-black cursor-pointer'>My Appointments</p>
+                                <p onClick={() => navigate('health-insights')} className='hover:text-black cursor-pointer'>Health Insights</p>
                                 <p onClick={logout} className='hover:text-black cursor-pointer'>Logout</p>
                             </div>
                         </div>
